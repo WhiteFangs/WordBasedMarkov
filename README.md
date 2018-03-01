@@ -14,5 +14,8 @@ A letter-based Markov chain text generator generates words based on the probabil
 ### Order
 The order is then less relevant, especially for a small text corpus, as it will rely on probabilities of consecutive groups of words. Set the order at less than 4 if you still want something different than complete sentences of the original corpus.
 
+## Example
+The quiz [Who Wrote It: James Joyce or Markov Chains?](http://louphole.com/applications/who-wrote-it-james-joyce-or-markov-chains/) shows a typical use of such a program for text generation based on an existing corpus, in this case the last part of James Joyce's Ulysses.
+
 ## License
 The source code of this generator is available under the terms of the [MIT license](http://www.opensource.org/licenses/mit-license.php).
